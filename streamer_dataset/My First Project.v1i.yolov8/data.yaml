@@ -1,0 +1,13 @@
+train: /home/yuzhang/Hyperhit/yolo-person-out/streamer_dataset/My First Project.v1i.yolov8/train/images
+val: /home/yuzhang/Hyperhit/yolo-person-out/streamer_dataset/My First Project.v1i.yolov8/valid/images
+
+
+nc: 1
+names: ['yang jia cheng']
+
+roboflow:
+  workspace: wuyanzu-owy5l
+  project: my-first-project-7bdlz
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wuyanzu-owy5l/my-first-project-7bdlz/dataset/1

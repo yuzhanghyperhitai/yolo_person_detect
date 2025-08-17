@@ -1,0 +1,2 @@
+
+yolo detect train data="/home/yuzhang/Hyperhit/yolo-person-out/streamer_dataset/My First Project.v1i.yolov8/data.yaml" model=/home/yuzhang/Hyperhit/yolo-person-out/yolov8x.pt epochs=30 imgsz=640 device=0

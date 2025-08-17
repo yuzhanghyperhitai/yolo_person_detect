@@ -1,0 +1,4 @@
+.marscode/
+.venv/
+runs/
+*.pt
